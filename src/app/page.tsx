@@ -1,10 +1,19 @@
 import React from 'react'
-import Navbar from './Components/Navbar'
+
+import HeroSection from './Components/HeroSection'
+import ServiceSection from './Components/ServiceSection'
+import ReasonsToLove from './Components/ReasonsToLove'
+import Rating from './Components/Rating'
+import PromiseSection from './Components/PromiseSection'
 
 const page = () => {
   return (
     <>
-<Navbar />
+      <HeroSection />
+      <ServiceSection />
+      <ReasonsToLove />
+      <Rating />
+      <PromiseSection />
     </>
   )
 }
