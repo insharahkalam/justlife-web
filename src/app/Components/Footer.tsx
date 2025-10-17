@@ -27,8 +27,8 @@ const Footer = () => {
                     <div className='mt-5 flex flex-wrap gap-2'>
                         <Link href="/AllPage/MaidService"><button className='bg-black rounded-2xl px-2 text-sm font-medium pb-1 pt-1 mb-2 hover:cursor-pointer'>Maid Service</button></Link>
                         <Link href="/AllPage/CarpetCleaning"><button className='bg-black rounded-2xl px-2 text-sm font-medium pb-1 pt-1 mb-2 hover:cursor-pointer'>Carpet Cleaning</button></Link>
-                        <button className='bg-black rounded-2xl px-2 text-sm font-medium pb-1 pt-1 mb-2 hover:cursor-pointer'>Mattress Cleaning</button>
-                        <button className='bg-black rounded-2xl px-2 text-sm font-medium pb-1 pt-1 mb-2 hover:cursor-pointer'>Sofa Cleaning</button>
+                        <Link href="/AllPage/MattressCleaning"><button className='bg-black rounded-2xl px-2 text-sm font-medium pb-1 pt-1 mb-2 hover:cursor-pointer'>Mattress Cleaning</button></Link>
+                        <Link href="/AllPage/SofaCleaning"> <button className='bg-black rounded-2xl px-2 text-sm font-medium pb-1 pt-1 mb-2 hover:cursor-pointer'>Sofa Cleaning</button></Link>
                         <button className='bg-black rounded-2xl px-2 text-sm font-medium pb-1 pt-1 mb-2 hover:cursor-pointer'>Curtain Cleaning</button>
                         <button className='bg-black rounded-2xl px-2 text-sm font-medium pb-1 pt-1 mb-2 hover:cursor-pointer'>Deep Cleaning</button>
                         <button className='bg-black rounded-2xl px-2 text-sm font-medium pb-1 pt-1 mb-2 hover:cursor-pointer'>Move In & Out Cleaning Services</button>

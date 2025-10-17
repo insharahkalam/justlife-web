@@ -9,7 +9,6 @@ const CarpetCleaning = () => {
         <Link href="/" className='underline text-gray-400 font-semibold text-xs tracking-[2px] uppercase gap-2'>Home </Link> <svg xmlns="http://www.w3.org/2000/svg" height="20px" viewBox="0 -960 960 960" width="20px" fill="#B7B7B7"><path d="M504-480 320-664l56-56 240 240-240 240-56-56 184-184Z" /></svg><Link className='text-gray-400 font-semibold text-xs tracking-[2px] uppercase' href="/AllPage/CarpetCleaning">Carpet & Rug Cleaning in UAE</Link>
       </div>
 
-
       <div className="relative w-full h-[500px] rounded-2xl overflow-hidden mt-3">
         <Image src="/Images/shutterstock.webp" alt="Maid Service" fill className="object-cover object-top" />
 
@@ -58,12 +57,62 @@ const CarpetCleaning = () => {
         <p className=' text-neutral-700 mt-5 text-lg'> Pets: Professional rug cleaning can assist you in cleaning up pet messes if you have pets. Your pet's fur can stick to your carpets and it can be quite difficult to clean them. Carpet cleaning companies may also help to lessen pet odors.</p>
       </div>
 
- <div className='mt-10'>
+      <div className='mt-10'>
         <h1 className='text-[26px] font-bold text-neutral-700'>How to Book Carpet & Rug Cleaning Service Through Justlife?</h1>
 
-        <p className=' text-neutral-700 mt-5 text-lg'>You will not believe how quickly and easily you can find the best carpet cleaning. For the best carpet cleaning, look no further than Justlife. By providing homes with reputable, and reliable cleaning services such as house cleaning, deep cleaning, carpet and rug cleaning services, we have built a solid reputation for ourselves. When you go to the booking section on our app or website and schedule the carpet cleaning service you require, you will get the best service possible. For more information, you can visit our website or search out our mobile app. It’s easy to book: Pick your service, give us the details, and you’ll be able to review the pricing. You can also add additional instructions for us, which we will always consider.</p>
-</div>
+        <p className=' text-neutral-700 mt-5 text-lg'>You will not believe how quickly and easily you can find the best carpet cleaning. For the best carpet cleaning, look no further than Justlife. By providing homes with reputable, and reliable cleaning services such as
+          <Link href='' className='text-blue-600 hover:text-neutral-700'> house cleaning</Link>
+          , <Link href='' className='text-blue-600 hover:text-neutral-700'>deep cleaning</Link>, carpet and rug cleaning services, we have built a solid reputation for ourselves. When you go to the booking section on our app or website and schedule <span className='font-bold'>the carpet cleaning service</span> you require, you will get the best service possible. For more information, you can visit our website or search out our mobile app. It’s easy to book: Pick your service, give us the details, and you’ll be able to review the pricing. You can also add additional instructions for us, which we will always consider.</p>
+      </div>
 
+      <div className='mt-5'>
+        <p className=' text-neutral-700 mt-5 text-lg'>For more information regarding our service areas, kindly visit:
+          <Link href='' className='text-blue-600 hover:text-neutral-700'> Carpet Cleaning Dubai</Link>,
+          <Link href='' className='text-blue-600 hover:text-neutral-700'> Carpet Cleaning Abu Dhabi</Link>, or
+          <Link href='' className='text-blue-600 hover:text-neutral-700'> Carpet Cleaning <br /> Sharjah</Link>.</p>
+      </div>
+
+      <div className='mt-5'>
+        <p className=' text-neutral-700 mt-5 text-lg'>
+          The company that provides all your home service needs, kindly visit the services you might want some help:
+          <Link href='' className='text-blue-600 hover:text-neutral-700'> Air Conditioner Cleaning</Link>,
+          <Link href='' className='text-blue-600 hover:text-neutral-700'> Apartment Cleaning</Link>,
+          <Link href='' className='text-blue-600 hover:text-neutral-700'> Babysitter Service</Link>,
+          <Link href='' className='text-blue-600 hover:text-neutral-700'> Bathroom Cleaning Service</Link>,
+          <Link href='' className='text-blue-600 hover:text-neutral-700'> Car Cleaning at Home</Link>,
+          <Link href='' className='text-blue-600 hover:text-neutral-700'> Commercial Cleaning Service</Link>,
+          <Link href='' className='text-blue-600 hover:text-neutral-700'> Curtain Cleaning Company</Link>,
+          <Link href='' className='text-blue-600 hover:text-neutral-700'> Deep Cleaning Company</Link>,
+          <Link href='' className='text-blue-600 hover:text-neutral-700'> Disinfection Company</Link>,
+          <Link href='' className='text-blue-600 hover:text-neutral-700'> Electric Maintenance Company</Link>,
+          <Link href='' className='text-blue-600 hover:text-neutral-700'> Floor Cleaning</Link>,
+          <Link href='' className='text-blue-600 hover:text-neutral-700'> Furniture Cleaning Company</Link>,
+          <Link href='' className='text-blue-600 hover:text-neutral-700'> Handyman and Maintenance Company</Link>,
+          <Link href='' className='text-blue-600 hover:text-neutral-700'> House Painting Company</Link>,
+          <Link href='' className='text-blue-600 hover:text-neutral-700'> Cleaning Company</Link>,
+          <Link href='' className='text-blue-600 hover:text-neutral-700'> Housekeeping Company</Link>,
+          <Link href='' className='text-blue-600 hover:text-neutral-700'> Kitchen Cleaning Service</Link>,
+          <Link href='' className='text-blue-600 hover:text-neutral-700'> Laundry Service Company</Link>,
+          <Link href='' className='text-blue-600 hover:text-neutral-700'> Maid Service Company</Link>,
+          <Link href='' className='text-blue-600 hover:text-neutral-700'> Mattress Cleaning Company</Link>
+          <Link href='' className='text-blue-600 hover:text-neutral-700'> Move in & Move out Cleaning</Link>,
+          <Link href='' className='text-blue-600 hover:text-neutral-700'> Office Cleaning</Link>,
+          <Link href='' className='text-blue-600 hover:text-neutral-700'> Packing and Moving Company</Link>,
+          <Link href='' className='text-blue-600 hover:text-neutral-700'> Part Time Maid</Link>,
+          <Link href='' className='text-blue-600 hover:text-neutral-700'> Pest Control Company</Link>,
+          <Link href='' className='text-blue-600 hover:text-neutral-700'> Plumbing Company</Link>,
+          <Link href='' className='text-blue-600 hover:text-neutral-700'> Room Cleaning</Link>,
+          <Link href='' className='text-blue-600 hover:text-neutral-700'> Sofa Cleaning Company</Link> or
+          <Link href='' className='text-blue-600 hover:text-neutral-700'> Villa Cleaning</Link>.
+        </p>
+      </div>
+
+       <div className='my-10'>
+        <p className='text-gray-400 mb-3 font-semibold text-xs tracking-[2px] uppercase'>Everything you need</p>
+      </div>
+
+
+      {/* remaining Slider component call */}
 
 
     </section>
