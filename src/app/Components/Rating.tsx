@@ -13,7 +13,7 @@ const Rating = () => {
       name: "Shereen"
     },
     {
-      text: "I booked Justlife’s home lab tests for vitamin D and B12. The specialist arrived at my doorstep and took my blood sample, which was so convenient as I did not have to step out of my house. I love this app and how they provide various services and multiple home test options. It’s much more reasonable than visiting a clinic. I just love this app!",
+      text: "I booked Justlife's home lab tests for vitamin D and B12. The specialist arrived at my doorstep and took my blood sample, which was so convenient as I did not have to step out of my house. I love this app and how they provide various services and multiple home test options. It’s much more reasonable than visiting a clinic. I just love this app!",
       name: "Kareem"
     }
   ];
