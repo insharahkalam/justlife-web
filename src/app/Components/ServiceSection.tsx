@@ -11,7 +11,7 @@ export default function ServicesSection() {
             </p>
 
             <div className="w-full flex flex-col justify-center items-center">
-                <div className="flex gap-10">
+                <div className="flex mx-auto justify-center flex-wrap gap-10">
                     <div className="flex flex-col justify-center items-center">
                         <div className="py-3 px-10 flex justify-center items-center w-[195px] h-[95px] border border-gray-200 hover:bg-gray-50 rounded-xl">
                             <Image src="/Images/home-cleaning.svg" width={60} height={60} alt="" />
@@ -48,7 +48,7 @@ export default function ServicesSection() {
                     </div>
 
                 </div>
-                <div className="flex gap-10 mt-15">
+                <div className="flex flex-wrap justify-center mx-auto gap-10 mt-15">
                     <div className="flex flex-col justify-center items-center">
                         <div className="py-3 px-10 flex justify-center items-center w-[195px] h-[95px] border border-gray-200 hover:bg-gray-50 rounded-xl">
                             <Image src="/Images/ac-cleaning.svg" width={60} height={60} alt="" />
@@ -60,7 +60,7 @@ export default function ServicesSection() {
                         <div className="py-3 px-10 flex justify-center items-center w-[195px] h-[95px] border border-gray-200 hover:bg-gray-50 rounded-xl">
                             <Image src="/Images/mens-grooming.svg" width={45} height={45} alt="" />
                         </div>
-                        <p className="mt-3">Premium Men’s Grooming</p>
+                        <p className="mt-3">Premium Men&apos;s Grooming</p>
                     </div>
 
                     <div className="flex flex-col justify-center items-center">
