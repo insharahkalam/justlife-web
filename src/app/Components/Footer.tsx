@@ -139,7 +139,7 @@ const Footer = () => {
                     <hr className='text-gray-700' />
                     <div className=' w-full flex flex-wrap items-center justify-between'>
                         <div className="btns flex gap-4 mt-5">
-                            <Image src="/Images/appstore.Webp" width={120} height={90} className=' hover:cursor-pointer' alt="" />
+                            <Image src="/Images/appstore.webp" width={120} height={90} className=' hover:cursor-pointer' alt="" />
                             <Image src="/Images/playstore.Webp" width={120} height={90} className=' hover:cursor-pointer' alt="" />
                         </div>
                         <div className="btns flex gap-5 mt-5">
